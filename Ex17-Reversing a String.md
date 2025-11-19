@@ -1,4 +1,4 @@
-<img width="359" height="191" alt="image" src="https://github.com/user-attachments/assets/b4614c25-c293-44e8-82b9-3a85006175e1" /># Ex17 Reversing a String Using Stack Data Structure
+# Ex17 Reversing a String Using Stack Data Structure
 ## AIM:
 To write a Java program that reverses an input string using a stack, without using built-in reverse functions.
 
